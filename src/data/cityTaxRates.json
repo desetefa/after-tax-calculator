@@ -1,0 +1,116 @@
+{
+  "NYC": {
+    "state": "NY",
+    "name": "New York City",
+    "brackets": {
+      "single": [
+        { "max": 12800, "rate": 3.078 },
+        { "max": 25600, "rate": 3.762 },
+        { "max": 120000, "rate": 3.819 },
+        { "max": 250000, "rate": 3.876 },
+        { "max": 500000, "rate": 3.924 },
+        { "max": 1500000, "rate": 4.062 },
+        { "max": 999999999, "rate": 4.25 }
+      ],
+      "married": [
+        { "max": 25600, "rate": 3.078 },
+        { "max": 51200, "rate": 3.762 },
+        { "max": 240000, "rate": 3.819 },
+        { "max": 500000, "rate": 3.876 },
+        { "max": 1000000, "rate": 3.924 },
+        { "max": 3000000, "rate": 4.062 },
+        { "max": 999999999, "rate": 4.25 }
+      ]
+    }
+  },
+  "Yonkers": {
+    "state": "NY",
+    "name": "Yonkers",
+    "rate": 1.61135
+  },
+  "Philadelphia": {
+    "state": "PA",
+    "name": "Philadelphia",
+    "rate": 3.75
+  },
+  "Detroit": {
+    "state": "MI",
+    "name": "Detroit",
+    "rate": 2.4
+  },
+  "Cleveland": {
+    "state": "OH",
+    "name": "Cleveland",
+    "rate": 2.5
+  },
+  "Columbus": {
+    "state": "OH",
+    "name": "Columbus",
+    "rate": 2.5
+  },
+  "Cincinnati": {
+    "state": "OH",
+    "name": "Cincinnati",
+    "rate": 1.8
+  },
+  "Toledo": {
+    "state": "OH",
+    "name": "Toledo",
+    "rate": 2.25
+  },
+  "Louisville": {
+    "state": "KY",
+    "name": "Louisville",
+    "rate": 2.2
+  },
+  "Indianapolis": {
+    "state": "IN",
+    "name": "Indianapolis",
+    "rate": 1.62
+  },
+  "St. Louis": {
+    "state": "MO",
+    "name": "St. Louis",
+    "rate": 1
+  },
+  "Kansas City": {
+    "state": "MO",
+    "name": "Kansas City",
+    "rate": 1
+  },
+  "Baltimore": {
+    "state": "MD",
+    "name": "Baltimore",
+    "rate": 3.2
+  },
+  "Wilmington": {
+    "state": "DE",
+    "name": "Wilmington",
+    "rate": 1.25
+  },
+  "Newark": {
+    "state": "NJ",
+    "name": "Newark",
+    "rate": 1
+  },
+  "Birmingham": {
+    "state": "AL",
+    "name": "Birmingham",
+    "rate": 1
+  },
+  "Montgomery": {
+    "state": "AL",
+    "name": "Montgomery",
+    "rate": 1
+  },
+  "San Francisco": {
+    "state": "CA",
+    "name": "San Francisco",
+    "rate": 1.5
+  },
+  "Oakland": {
+    "state": "CA",
+    "name": "Oakland",
+    "rate": 1
+  }
+}

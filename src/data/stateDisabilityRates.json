@@ -1,0 +1,14 @@
+{
+  "CA": {
+    "name": "State Disability Insurance",
+    "rate": 1.2,
+    "wageBase": null,
+    "maxWithholding": null
+  },
+  "NJ": {
+    "name": "Temporary Disability Insurance",
+    "rate": 0.23,
+    "wageBase": 165400,
+    "maxWithholding": 380.42
+  }
+}
