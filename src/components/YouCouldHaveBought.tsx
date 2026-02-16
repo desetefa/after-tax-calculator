@@ -223,7 +223,7 @@ export default function YouCouldHaveBought({
         <div>
           <dt className="text-zinc-400">Health insurance</dt>
           <dd className="mt-0.5 font-medium text-zinc-200">
-            {formatMonths(data.healthMonths)} (at $477/mo avg. individual premium)
+            {formatMonths(data.healthMonths)} (at $477/mo avg. premium)
           </dd>
         </div>
         <div>
@@ -235,7 +235,7 @@ export default function YouCouldHaveBought({
         <div>
           <dt className="text-zinc-400">Saved for retirement</dt>
           <dd className="mt-0.5 font-medium text-emerald-400">
-            and saved {formatCurrency(data.retirementFutureValue)} for retirement in {RETIREMENT_YEARS} years
+            {formatCurrency(data.retirementFutureValue)} for retirement after {RETIREMENT_YEARS} years
           </dd>
           <p className="mt-0.5 text-xs text-zinc-500">Assumes 7% annual return (e.g. 401k/Roth IRA).</p>
         </div>
